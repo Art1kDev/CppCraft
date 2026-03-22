@@ -1,4 +1,4 @@
 # CppCraft
 Minecraft port from Java to C++ 
 
-![Image alt]()
+![Image alt](Preview.jpg)
