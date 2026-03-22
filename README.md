@@ -1,2 +1,4 @@
 # CppCraft
-Minecraft C++ Port
+Minecraft port from Java to C++ 
+
+![Image alt]()
